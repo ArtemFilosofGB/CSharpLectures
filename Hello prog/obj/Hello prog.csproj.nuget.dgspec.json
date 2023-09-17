@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj": {}
+    "p:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj": {}
   },
   "projects": {
-    "P:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj": {
+    "p:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj",
+        "projectUniqueName": "p:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj",
         "projectName": "Hello prog",
-        "projectPath": "P:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj",
+        "projectPath": "p:\\IT\\Знакомство с языком программирования C#\\Hello prog\\Hello prog.csproj",
         "packagesPath": "C:\\Users\\filosof\\.nuget\\packages\\",
-        "outputPath": "P:\\IT\\Знакомство с языком программирования C#\\Hello prog\\obj\\",
+        "outputPath": "p:\\IT\\Знакомство с языком программирования C#\\Hello prog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filosof\\AppData\\Roaming\\NuGet\\NuGet.Config"
