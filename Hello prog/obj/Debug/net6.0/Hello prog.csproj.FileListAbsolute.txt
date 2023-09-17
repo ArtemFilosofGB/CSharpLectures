@@ -1,0 +1,15 @@
+P:\IT\Знакомство с языком программирования C#\Hello prog\bin\Debug\net6.0\Hello prog.exe
+P:\IT\Знакомство с языком программирования C#\Hello prog\bin\Debug\net6.0\Hello prog.deps.json
+P:\IT\Знакомство с языком программирования C#\Hello prog\bin\Debug\net6.0\Hello prog.runtimeconfig.json
+P:\IT\Знакомство с языком программирования C#\Hello prog\bin\Debug\net6.0\Hello prog.dll
+P:\IT\Знакомство с языком программирования C#\Hello prog\bin\Debug\net6.0\Hello prog.pdb
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.csproj.AssemblyReference.cache
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.GeneratedMSBuildEditorConfig.editorconfig
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.AssemblyInfoInputs.cache
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.AssemblyInfo.cs
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.csproj.CoreCompileInputs.cache
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.dll
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\refint\Hello prog.dll
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.pdb
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\Hello prog.genruntimeconfig.cache
+P:\IT\Знакомство с языком программирования C#\Hello prog\obj\Debug\net6.0\ref\Hello prog.dll
